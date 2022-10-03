@@ -1,0 +1,9 @@
+1,18f-1,18f-1,SitC01,1b,,1a,Nou het gaat helemaal niet goed. Volgens mij is dat beest heel ziek. Ik ben bang dat ie dood gaat.
+1a,18f-1a,18f-1a,,2b,,2a,Nou he hij eet bijna niet. Hij wordt steeds magerder. Ik denk echt dat ie ziek is.
+1b,18f-1b,18f-1b,,2b,,2a,Ja maar dit is al langere tijd - eh, dus niet eh - sinds een paar dagen. Denk ik dat er wel degelijk iets mee aan de hand is!
+2a,18f-2a,18f-2a,,3b,,3a,Ik ben bang dat ie dood gaat. Ik zou niet willen  dat ie er niet meer is. Want dan mis ik em. Ja volgens mij moet er wel iets gebeuren. Misschien de dierenarts. Om te kijken wat er aan de hand is.
+2b,18f-2b,18f-2b,,3b,,3a,Nou eh ikke. Hij eet niet. Hij wordt steeds magerder. Ik denk echt dat ie ziek is. Volgens mij kan een kat best dood gaan.
+3a,18f-3a,18f-3a,,4b,,4a,Nou ja ehm wat er aan de hand is en eh ja wat er misschien nog gaat komen. Dat vind ik wel heel spannend.
+3b,18f-3b,18f-3b,,4b,,4a,Nou....ik - ik ben het daar niet mee eens. Ik geloof je niet zo. Nou nee daar ben ik het niet mee eens.
+4a,18f-4a,18f-4a,,END,,END,Ja dat is een heel goed idee. Ja graag!
+4b,18f-4b,18f-4b,,END,,END,Dat ben ik helemaal niet met je eens! Ik maak me heel erg zorgen om dat arme beest!

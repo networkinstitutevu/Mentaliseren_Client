@@ -1,0 +1,5 @@
+1,5f-1,5f-1,SitC01,2b,,2a,Nou mijn trein was vertraagd.
+2a,5f-2a,5f-2a,,3b,,3a,Ik was bang en wist niet wat ik moest doen. En mijn telefoon was ook nog plat…
+2b,5f-2b,5f-2b,,3b,,3a,Ja sorry. Ik kan daar ook niets aan doen! Die stomme trein ook.
+3a,5f-3a,5f-3a,,END,,END,Ben je nog boos op mij? <Kijkt begeleider vragend aan> Kunnen we een nieuwe afspraak maken?
+3b,5f-3b,5f-3b,,END,,END,<Met vuist op tafel> Geloof je wel wat ik vertel?

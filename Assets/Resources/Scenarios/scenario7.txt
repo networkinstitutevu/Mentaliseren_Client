@@ -1,0 +1,5 @@
+1,7-1,7f-1,SitC01,2b,,2a,Nou was ik net aan het bellen - loopt Roy tegen me aan
+2a,7f-2a,7f-2a,,3b,,3a,Nou dat weet ik niet. Hij doet het wel vaker. Denk je ook niet?
+2b,7f-2b,7f-2b,,3b,,3a,Het is echt niet mijn fout hoor.
+3a,7f-3a,7f-3a,,END,,END,Ik weet het niet hoor. Misschien heb je wel gelijk.
+3b,7f-3b,7f-3b,,END,,END,Je gelooft me niet he? Hij kan toch een beetje uitkijken?!

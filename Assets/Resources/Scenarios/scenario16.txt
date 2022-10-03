@@ -1,0 +1,9 @@
+1,16f-1,16f-1,SitC01,1b,,1a,Eh nou ja eh. D'r was ruzie tussen Milo en Loes. Ja eh Milo en Loes hadden ruzie en Milo deed heel onaardig tegen Loes.
+1a,16f-1a,16f-1a,,2b,,2a,Milo eh ja die zei heel eh onaardige dingen tegen Loes waardoor eh Loes verdrietig werd.
+1b,16f-1b,16f-1b,,2b,,2a,Eh ja ik vond het wel heel lastig. Want het escaleerde gewoon.
+2a,16f-2a,16f-2a,,3b,,3a,Ik vond wel dat ik haar even moest troosten. Nou ja toen heb ik uiteindelijk heb ik eh heb ik Loes toch maar getroost 
+2b,16f-2b,16f-2b,,3b,,3a,Ja dat klopt. Ja omdat er ook helemaal niemand anders was. Waar waren die in Godsnaam?
+3a,16f-3a,16f-3a,,4b,,4a,Want er was ook verder eh geen eh begeleiding in de buurt op dat moment.
+3b,16f-3b,16f-3b,,4b,,4a,Ja da's lekker. Ik vond het nodig om iets te doen voor Loes. Ja wel heel lastig.
+4a,16f-4a,16f-4a,,END,,END,Later kwam er wel iemand van de begeleiding. Eh heb ik wel gezegd wat er gebeurd was. Tegen diegene. Ja eh ja was het wel weer goed.
+4b,16f-4b,16f-4b,,END,,END,Mmmm dan moeten wij het gaan oplossen! Ja eh nou laat ook maar hoor. Bekijk het ook maar. Ik ben er klaar mee.

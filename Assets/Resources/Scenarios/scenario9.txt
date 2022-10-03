@@ -1,0 +1,5 @@
+1,9f-1,9f-1,SitC01,2b,,2a,Ja nou ja ze hebben mijn badkamer opgeruimd. Was helemaal niet bedoeld maar alles staat op een andere plek. Ik ben mijn spullen kwijt.
+2a,9f-2a,9f-2a,,3b,,3a,Ja eh begeleiding heeft er ook al geen tijd voor om er naar te luisteren.
+2b,9f-2b,9f-2b,,3b,,3a,Ja dat ben ik helemaal met je eens. Ja dat is een goed idee.
+3a,9f-3a,9f-3a,,END,,END,Ja dat kan jij wel vinden maar ik ben mijn spullen kwijt.
+3b,9f-3b,9f-3b,,END,,END,Ja ja jij hebt makkelijk praten. Ja het is goed met je.

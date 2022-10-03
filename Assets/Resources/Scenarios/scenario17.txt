@@ -1,0 +1,9 @@
+1,17f-1,17f-1,SitC01,1b,,1a,Nee nee daar was ik niet zo erg blij mee nee hoe daar op gereageert werd.
+1a,17f-1a,17f-1a,,2b,,2a,Nou ja dat ging over nou ja ehhh dat ik niet verdrietig mocht zijn. Dat ik haar verder niet kende. Dat ik me daar niet druk om moest maken.
+1b,17f-1b,17f-1b,,2b,,2a,Ja maar waarom niet. Bedoel het gaat toch om mijn gevoel?
+2a,17f-2a,17f-2a,,3b,,3a,Nou ja ja niet heel prettig. Het gaf mij geen prettig gevoel hierbij. Ja ja en ook het feit dat er weinig aandacht voor was en dat het je toch wel raakt.
+2b,17f-2b,17f-2b,,3b,,3a,Ja maar ik vind niet dat dat er toe doet. Of dat ehh ik vind niet dat dat een rol speelt. Een rol speelt hoe ik me voel daarbij. En jullie lijken wel niet te willen luisteren naar mij!
+3a,17f-3a,17f-3a,,4b,,4a,Ehh nou ja meer tijd er voor nemen om even...ja hoe ik me voel op dat moment en ook begrip daarvoor tonen en niet ehh "Nou ja je kent haar toch niet en waar maak je je druk om?"
+3b,17f-3b,17f-3b,,4b,,4a,Nou ja daar denk ik toch heel anders over! Je wilt gewoon niet naar me luisteren! En dat is ook niet de eerste keer!
+4a,17f-4a,17f-4a,,END,,END,Ja eh of misschien toch de oorzaak waarom ze overleden is. Of ze geen lijdensweg heeft gehad. Of dat haar bespaard is gebleven.
+4b,17f-4b,17f-4b,,END,,END,Ja ehhh ho ho. Jij wilt niet luisteren. Het lijkt erop of ik er niet eens toe doe!

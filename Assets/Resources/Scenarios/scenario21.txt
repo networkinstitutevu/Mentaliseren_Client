@@ -1,0 +1,9 @@
+1,21f-1,21f-1,SitC01,1b,,1a,Nou ja ik heb te horen gekregen dat er een wachtlijst is voor waar ik heen zou verhuizen. Ja ja weten we niet hoe lang het gaat duren ook. Dus eigenlijk wel een teleurstelling.
+1a,21f-1a,21f-1a,,2b,,2a,Ja ja ja. Het duurt nogal lang. Voor dat ik kan verhuizen. Ik wil ook graag wel een andere plek. Want ik wou heel graag weg.
+1b,21f-1b,21f-1b,,2b,,2a,Ja maar ik wil weg. Ik ben er hier een beetje klaar mee. Ik ik wil het niet meer.
+2a,21f-2a,21f-2a,,3b,,3a,Nou weet ik niet hoe lang ik moet wachten. Ja ik denk dat het wel moeilijk wordt.
+2b,21f-2b,21f-2b,,3b,,3a,Ja ja ja dat kan jij wel zeggen! Maar ik ben hier helemaal klaar. Ik wil hier liever morgen weg dan eh over drie maanden.
+3a,21f-3a,21f-3a,,4b,,4a,Eigenlijk wel een teleurstelling dat het nu niet eh gaat lukken. Ja het is helaas niet anders.
+3b,21f-3b,21f-3b,,4b,,4a,Ja jij hebt makkelijk praten. Jij weet het helemaal niet eens hoe dat voelt. Ja maar ik wil wel weg. Ik ben hier helemaal klaar.
+4a,21f-4a,21f-4a,,END,,END,Ja het is nu even niet anders. Ik had het liever ook anders gezien.
+4b,21f-4b,21f-4b,,END,,END,Ja jij hebt makkelijk praten. Met je wachten. Maar ik wil weg hier. Ik ben er echt helemaal klaar mee met iedereen.

@@ -1,0 +1,5 @@
+1,13f-1,13f-1,SitC01,2b,,2a,Nou ja ehhhhh. Hij wil TV kijken en ik wil TV kijken.
+2a,13f-2a,13f-2a,,3b,,3a,Ja dat klopt. Waarom niet? Waarom moet ik altijd?
+2b,13f-2b,13f-2b,,3b,,3a,Waarom moet ik altijd? Ja nou ik wil hier ook wel een keer kijken! Dus ik moet nou m m maar weer ehhh me schikken.
+3a,13f-3a,13f-3a,,END,,END,Nou ja voor deze keer wil ik het nog wel een keer doen. Om de vrede te bewaren wil ik wel eh naar mijn eigen kamer.
+3b,13f-3b,13f-3b,,END,,END,Ja nou ehhh nee. Dat ga ik niet doen! Nee ik ga echt niet! Hij gaat nou maar een keer! Dat zoekt hij maar uit!

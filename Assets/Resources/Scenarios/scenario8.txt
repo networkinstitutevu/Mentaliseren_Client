@@ -1,0 +1,5 @@
+1,8f-1,8f-1,SitC01,2b,,2a,Ja ja ja ja. Mijn fiets is weg. Ja het weer werkt ook al niet erg mee want het regent alleen maar.
+2a,8f-2a,8f-2a,,3b,,3a,En dan kom ik binnen moet ik ook meteen weer verder. Ik heb er geen zin meer in. Ik moet even bijkomen.
+2b,8f-2b,8f-2b,,3b,,3a,En dan vinden ze ook dat ik meteen weer door moet. Ik krijg niet eens de kans om ff bij te komen.
+3a,8f-3a,8f-3a,,END,,END,Ja dat is heel vervelend ja.
+3b,8f-3b,8f-3b,,END,,END,Je begrijpt me ook al niet. Dus nou bekijk het allemaal maar!

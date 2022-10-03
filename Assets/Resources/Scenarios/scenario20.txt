@@ -1,0 +1,9 @@
+1,20f-1,20f-1,SitC01,1b,,1a,Nee ik vind het een beetje overdreven. Dat er ineens zoveel bijkomt in de week.
+1a,20f-1a,20f-1a,,2b,,2a,Het gaat misschien wel niet zo eh he nu even minder maar dat betekent niet dat het helemaal fout gaat dus ik heb echt zoiets van waarom is dit nodig?
+1b,20f-1b,20f-1b,,2b,,2a,Nou ik vind het een beetje overdreven. Om daar nu zo ineens zoveel bij te doen.
+2a,20f-2a,20f-2a,,3b,,3a,'k bedoel ik hou het zelf wel in de gaten - wanneer het echt - niet goed gaat. Nou eh dan zoek ik wel iemand op.
+2b,20f-2b,20f-2b,,3b,,3a,Ja maar ik vind het nu overdreven. Omdat het echt een beetje te voorbarig is. Het is helemaal niet nodig.
+3a,20f-3a,20f-3a,,4b,,4a,Ik houd het wel in de gaten maar ik vind het niet nodig om eh zoveel extra te krijgen. Ik bedoel dan trek ik zelf wel aan de bel.
+3b,20f-3b,20f-3b,,4b,,4a,Nou ehhhhh daar blijf ik het niet mee eens. Ik ga daar niet op in. Het leidt eerder tot irritatie.
+4a,20f-4a,20f-4a,,END,,END,Ja maar dat gaan we doen. Dat ga ik doen! Dat beloof ik ook gewoon.
+4b,20f-4b,20f-4b,,END,,END,Nou je mag best komen maar die deur blijft dicht voor je. Ja nee ik ben het hier totaal niet mee eens.

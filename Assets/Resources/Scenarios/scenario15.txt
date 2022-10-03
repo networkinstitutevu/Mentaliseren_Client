@@ -1,0 +1,9 @@
+1,15f-1,15f-1,SitC01,1b,,1a,Nou eh ja ze gaat zeggen wat ik moet gaan doen. En dat is helemaal niet haar zaak. En ze doet net of ze mij begeleidt.
+1a,15f-1a,15f-1a,,2b,,2a,Nou ze bemoeit zich met mij en met mijn zaken. Alsof eh ja ze mij moet vertellen hoe ik het moet doen. 
+1b,15f-1b,15f-1b,,2b,,2a,Het is eerder andersom. Zij bemoeit zich met mij! Het gaat zover zelfs dat ze verbood dat ik naar me broer toe mocht.
+2a,15f-2a,15f-2a,,3b,,3a,Ja dat vind ik eh begint me echt een beetje vervelend te worden nu ja.
+2b,15f-2b,15f-2b,,3b,,3a,Hoezo eh jij was er niet eens bij. Hoe weet jij dat nou? Het begint mij ook een beetje te irriteren.
+3a,15f-3a,15f-3a,,4b,,4a,Ja dat zou kunnen maar zo voelt het voor mij niet. Dan  raak ik geirriteerd en een beetje boos omdat ze zich met mij gaat bemoeien.
+3b,15f-3b,15f-3b,,4b,,4a,Nee oke maareh. Zij moet zich ook eh. Zij moet ook aangesproken worden vind ik. Want op deze manier blijft het doorgaan.
+4a,15f-4a,15f-4a,,END,,END,Ik eh probeer gelukkig te blijven maar ja het is op deze manier best wel lastig.
+4b,15f-4b,15f-4b,,END,,END,Ja maar dan moet zij zich ook niet met mij bemoeien! Wa Waarom neem je het voor haar op? Dat kwetst mij.

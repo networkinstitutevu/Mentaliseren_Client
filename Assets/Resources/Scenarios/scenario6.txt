@@ -1,0 +1,5 @@
+1,6f-1,6f-1,SitC01,2b,,2a,<Simonn zingt>
+2a,6f-2a,6f-2a,,3b,,3a,Oh. Ik wist helemaal niet dat je hoofdpijn hebt. Ik zal proberen wat zachter te zingen.
+2b,6f-2b,6f-2b,,3b,,3a,Ik heb gewoon zin om te zingen. Ga jij maar ergens anders zitten dan.
+3a,6f-3a,6f-3a,,END,,END,<Neuriet zachtjes en wiegt vrolijk heen en weer op zijn stoel>
+3b,6f-3b,6f-3b,,END,,END,Ik was hier eerst. <Slaat armen over elkaar en zingt verder>

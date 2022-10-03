@@ -1,0 +1,5 @@
+1,1-1_new,1f-1,SitC01,2b,,2a,Simon schuifelt op zijn stoel. Hij friemelt aan zijn vest en kijkt sip voor zich uit.
+2a,1-2a,1f-2a,,3b,,3a,Mijn vest. (voelt vest - aait zichzelf). Vind je mijn vest stom?
+2b,1-2b,1f-2b,,3b,,3a,(gaat achteruit zitten en slaat armen over elkaar) Zegt luid: stom vest… Het kriebelt heel erg… ‘Ik vind mezelf stom’.
+3a,1f-3a,1f-3a,SitC01,END,,END,Ja. Mooi he? Het is nieuw. Heb ik gekregen van mijn beste vriend.
+3b,1-3b,1f-3b,,END,,END,Trekt vest uit/trekt aan de kraag en begint te schelden.

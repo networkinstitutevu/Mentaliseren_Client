@@ -1,0 +1,5 @@
+1,14f-1,14f-1,SitC01,2b,,2a,[snif] Ja ik mis mijn oma. Ja ja die is overleden.
+2a,14f-2a,14f-2a,,3b,,3a,Ik mis mijn oma. De gesprekken eh en daar op visite gaan.
+2b,14f-2b,14f-2b,,3b,,3a,Nou ja dat kwam eigenlijk omdat eh iemand het over zijn oma had. Ja. Ja. Ja. Weet ik niet. Dat is niet hetzelfde.
+3a,14f-3a,14f-3a,,END,,END,Ja nou ja ik hoorde iemand praten over zijn oma. Werd ik daaraan herinnerd.
+3b,14f-3b,14f-3b,,END,,END,Ja maar eh dat is niet oma. Dat ben ik niet met je eens. Dat is toch niet het zelfde.

@@ -1,0 +1,9 @@
+1,19f-1,19f-1,SitC01,1b,,1a,Nee dat ga ik niet doen. Ik ben er helemaal klaar mee!
+1a,19f-1a,19f-1a,,2b,,2a,Ja ik wilde betalen ik stond bij de kassa en ikke had het idee dat iemand meekeek toen ik mijn pincode ging intoetsen. En dat vond ik niet zo heel fijn.
+1b,19f-1b,19f-1b,,2b,,2a,Ja ja ja ik had het idee dat er mensen mee konden kijken of aan het kijken waren toen ik ehhh en dat vond ik niet heel fijn.
+2a,19f-2a,19f-2a,,3b,,3a,Toen heb ik de actie ook afgebroken.
+2b,19f-2b,19f-2b,,3b,,3a,Ja ja maar ik wist ff niet wat ik moest doen op dat moment. Ik was een beetje in paniek.
+3a,19f-3a,19f-3a,,4b,,4a,Gelukkig had ik wel geld bij me. Kon ik toch mijn boodschappen betalen.
+3b,19f-3b,19f-3b,,4b,,4a,Ja ja jij hebt makkelijk praten maar ik stond daar. Ik wist het ff niet!
+4a,19f-4a,19f-4a,,END,,END,Ja misschien toch meer mijn code afschermen en goed kijken of er niet iemand kan meekijken of mee probeert te kijken.
+4b,19f-4b,19f-4b,,END,,END,Ja ja jij hebt makkelijk praten!

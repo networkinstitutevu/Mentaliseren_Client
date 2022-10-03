@@ -1,0 +1,7 @@
+Furniture Mega Pack: https://assetstore.unity.com/packages/3d/furniture-mega-pack-68913
+HDRP Furniture Pack: https://assetstore.unity.com/packages/3d/props/furniture/hdrp-furniture-pack-153946
+Mesh Baker: https://assetstore.unity.com/packages/tools/modeling/mesh-baker-5017
+Modern Office: https://assetstore.unity.com/packages/3d/props/interior/modern-office-39886
+School classroom: https://assetstore.unity.com/packages/3d/props/interior/school-classroom-60343
+
+Note: most of the furniture in this project was mesh baked into single object for performance.

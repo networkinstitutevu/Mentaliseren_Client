@@ -1,0 +1,5 @@
+1,2-1,2f-1,SitC01,2b,,2a,<Simon probeert dit in één keer te doen maar een deel van de aardappelen valt naast de pan en zo op de grond. Simon brengt zijn rechterarm naar zijn mond en bijt hier op.>
+2a,2-2a,2f-2a,,3b,,3a,Ik heb de aardappels laten vallen…Verdorie ik kan ook helemaal niks!
+2b,2-2b,2f-2b,,3b,,3a,<Bonkt hoofd tegen tafel en bijt nogmaals op zijn arm.>
+3a,2-3a,2f-3a,,END,,END,Ja kan gebeuren… <Kijkt begeleider aan. Glimlacht en pakt een nieuwe aardappel vast.>
+3b,2-3b,2f-3b,,END,,END,<Gooit aardappelmesje weg en kijkt boos.> Ik kap ermee.

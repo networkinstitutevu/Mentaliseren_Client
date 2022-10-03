@@ -1,0 +1,5 @@
+1,11f-1,11f-1,SitC01,2b,,2a,Ik heb gedroomd vannacht. Dat er een inbreker was. Het leek echt net alsof er iemand in huis was.
+2a,11f-2a,11f-2a,,3b,,3a,Ja ja zeker het leek net echt. Ja ik hoorde  allemaal geluiden enneh. Ik schrok er ook wakker van.
+2b,11f-2b,11f-2b,,3b,,3a,Ja nou deze leek toch echt hoor! Nee daar ben ik het niet mee eens.
+3a,11f-3a,11f-3a,,END,,END,Ja ja zeker. Ja dat hoop ik dan maar.
+3b,11f-3b,11f-3b,,END,,END,Ja dat kan je wel vinden maar dat ben ik echt niet met je eens.

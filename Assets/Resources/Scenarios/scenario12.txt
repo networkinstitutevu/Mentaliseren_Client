@@ -1,0 +1,5 @@
+1,12f-1,12f-1,SitC01,2b,,2a,Ja ik had een afspraak bij de arts maar die gaat niet door die is verzet. Dat vind ik heel vervelend.
+2a,12f-2a,12f-2a,,3b,,3a,Ja ik vind dat heel vervelend want wie gaat er dan mee?
+2b,12f-2b,12f-2b,,3b,,3a,Ja dat is weer zo'n gedoe ook. Kan er iemand mee ehhh. Weet je wel niet wat dat allemaal voor moeite kost?
+3a,12f-3a,12f-3a,,END,,END,Ja dat is een heel goed idee.
+3b,12f-3b,12f-3b,,END,,END,Ja jij hebt makkelijk praten. Het is goed met je.
